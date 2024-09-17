@@ -36,7 +36,7 @@ pip install watchdog
 
    ```bash
    git clone https://github.com/your-username/file-manager.git
-   cd file-managemer
+   cd file-manager
    ```
 
 2. **Configure the script**:
